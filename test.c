@@ -3,7 +3,7 @@
 int main(){
 
 	printf("Precious");
-	return 0;
+	return 1;
 
 
 }
